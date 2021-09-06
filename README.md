@@ -1,5 +1,5 @@
 # Hello, my name is Ismoy Belizaire
-# Android engineer
+# Android Engineer
 I'm a professional in software development I finished my studies a short time ago
 
 Being a developer is the most important achievement I have achieved in my life. The goal now is to train and grow professionally in Android software development and bring many values in the Android software development industry
