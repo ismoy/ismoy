@@ -19,8 +19,8 @@ This project is available in playStore.
 ![image](https://user-images.githubusercontent.com/72107070/132263923-e4a6d36f-67c5-41d9-9d3a-1df0fbe68f63.png)
 ![image](https://user-images.githubusercontent.com/72107070/132263940-d848e237-0441-4bce-b8fc-5047f1a68c13.png)
 # Find me at:
-www.linkedin.com/in/ismoy-belizaire-a0ba99106
-contacto@companytof.info
+# www.linkedin.com/in/ismoy-belizaire-a0ba99106
+# contacto@companytof.info
 # Entregas To Day Client's project:
 ![image](https://user-images.githubusercontent.com/72107070/132264149-4935d607-caa0-42e5-92e4-bab925d2efb7.png)
 ETD is an application that will allow you to request parcel transfer services and carry out formalities or face-to-face procedures.
