@@ -4,9 +4,6 @@ I'm a professional in software development
 
 Being a developer is the most important achievement I have achieved in my life. The goal now is to train and grow professionally in Android software development and bring many values in the Android software development industry
 
-I am a graduate, exactly this year
-what I have achieved as a junior developer.
-
 Entregas To Day: project that I have developed to request parcel services from point A to B
 using Firebase as a database and google Maps API, Dirreccions API, Places.
 This project is available in playStore.
