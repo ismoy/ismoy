@@ -20,7 +20,7 @@ This project is available in playStore.
 ETD is an application that will allow you to request parcel transfer services and carry out formalities or face-to-face procedures.
 Register and select the service that best suits your needs. We can coordinate to provide you with a personalized service thanks to the fact that we have vehicles of different sizes: bicycle, motorcycle, car and van. The best of this? You will pay the right price per kilometer of distance.
 Developed in java DB Firebase
-
+<!--
 
 # DidoxDelivery:
 Application that I have developed for the FIX SERVICES company, the objective of the application is to deliver documents for internal clients such as (BCI / delivery of documents, Cuponatic delivery of products, etc.)
