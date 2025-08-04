@@ -12,8 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ismoy&label=Profile%20Views&color=0e75b6&style=flat" alt="ismoy" />
   <img src="https://img.shields.io/github/followers/ismoy?label=Followers&style=social" alt="followers"/>
-  <img src="https://img.shields.io/github/repos/ismoy?label=Total%20Repos" alt="repos" />
-</p>
 
 ---
 
