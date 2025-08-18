@@ -27,20 +27,18 @@ I'm a passionate **mobile & cross-platform developer** who builds high-quality, 
 ---
 
 ## 🧰 My Most Popular Projects
-
-### 🔍 [BelZSpeedScan](https://github.com/ismoy/BelZSpeedScan)
-Cross-platform QR/Barcode scanner for Android & iOS  
-> Built with KMP + Jetpack Compose  
-[![Maven](https://img.shields.io/maven-central/v/io.github.ismoy/belzspeedscan)](https://search.maven.org/artifact/io.github.ismoy/belzspeedscan)
-[![GitHub Stars](https://img.shields.io/github/stars/ismoy/BelZSpeedScan?style=social)](https://github.com/ismoy/BelZSpeedScan)
-
----
-
 ### 🖼️ [ImagePickerKMP](https://github.com/ismoy/ImagePickerKMP)
 Multiplatform image picker with camera & gallery support  
 > Easy to use in both Android native and Compose Multiplatform  
 [![Maven](https://img.shields.io/maven-central/v/io.github.ismoy/imagepickerkmp)](https://search.maven.org/artifact/io.github.ismoy/imagepickerkmp)
 [![GitHub Stars](https://img.shields.io/github/stars/ismoy/ImagePickerKMP?style=social)](https://github.com/ismoy/ImagePickerKMP)
+[![GitHub forks](https://img.shields.io/github/forks/ismoy/ImagePickerKMP?style=social)](https://github.com/ismoy/ImagePickerKMP/fork)
+---
+### 🔍 [BelZSpeedScan](https://github.com/ismoy/BelZSpeedScan)
+Cross-platform QR/Barcode scanner for Android & iOS  
+> Built with KMP + Jetpack Compose  
+[![Maven](https://img.shields.io/maven-central/v/io.github.ismoy/belzspeedscan)](https://search.maven.org/artifact/io.github.ismoy/belzspeedscan)
+[![GitHub Stars](https://img.shields.io/github/stars/ismoy/BelZSpeedScan?style=social)](https://github.com/ismoy/BelZSpeedScan)
 
 ---
 
