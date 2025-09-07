@@ -15,26 +15,26 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate **mobile & cross-platform developer** who builds high-quality, production-ready tools and libraries.
 
-- 👨‍💻 I specialize in **Kotlin Multiplatform**, **Jetpack Compose**, and **React Native**
-- 🔧 Open-source advocate and library creator
-- 💼 Currently working on projects like Garantix, AccesoSmart, and CodePilot
-- 🌍 Based in Chile — available for collaboration worldwide
+- I specialize in **Kotlin Multiplatform**, **Jetpack Compose**, and **React Native**
+- Open-source advocate and library creator
+- Currently working on projects like Garantix, AccesoSmart, and CodePilot
+- Based in Chile — available for collaboration worldwide
 
 ---
 
-## 🧰 My Most Popular Projects
-### 🖼️ [ImagePickerKMP](https://github.com/ismoy/ImagePickerKMP)
+## My Most Popular Projects
+### [ImagePickerKMP](https://github.com/ismoy/ImagePickerKMP)
 Multiplatform image picker with camera & gallery support  
 > Easy to use in both Android native and Compose Multiplatform  
 [![Maven](https://img.shields.io/maven-central/v/io.github.ismoy/imagepickerkmp)](https://search.maven.org/artifact/io.github.ismoy/imagepickerkmp)
 [![GitHub Stars](https://img.shields.io/github/stars/ismoy/ImagePickerKMP?style=social)](https://github.com/ismoy/ImagePickerKMP)
 [![GitHub forks](https://img.shields.io/github/forks/ismoy/ImagePickerKMP?style=social)](https://github.com/ismoy/ImagePickerKMP/fork)
 ---
-### 🔍 [BelZSpeedScan](https://github.com/ismoy/BelZSpeedScan)
+### [BelZSpeedScan](https://github.com/ismoy/BelZSpeedScan)
 Cross-platform QR/Barcode scanner for Android & iOS  
 > Built with KMP + Jetpack Compose  
 [![Maven](https://img.shields.io/maven-central/v/io.github.ismoy/belzspeedscan)](https://search.maven.org/artifact/io.github.ismoy/belzspeedscan)
@@ -42,7 +42,7 @@ Cross-platform QR/Barcode scanner for Android & iOS
 
 ---
 
-### 🧭 [KMPSwipe](https://github.com/ismoy/KMPSwipe)
+### [KMPSwipe](https://github.com/ismoy/KMPSwipe)
 Add swipe gestures in Compose Multiplatform apps  
 > Works on Android and iOS seamlessly  
 [![Maven](https://img.shields.io/maven-central/v/io.github.ismoy/kmpswipe)](https://search.maven.org/artifact/io.github.ismoy/kmpswipe)
@@ -50,7 +50,7 @@ Add swipe gestures in Compose Multiplatform apps
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 ![Compose](https://img.shields.io/badge/Jetpack_Compose-%2300C853.svg?logo=android&logoColor=white)
@@ -63,7 +63,7 @@ Add swipe gestures in Compose Multiplatform apps
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ismoy&show_icons=true&theme=github_dark" width="48%" />
@@ -72,18 +72,18 @@ Add swipe gestures in Compose Multiplatform apps
 
 ---
 
-## 📢 Latest Blog Posts
+## Latest Blog Posts
 
-- 📸 [ImagePickerKMP: How to Capture & Pick Images with KMP](https://medium.com/@belizairesmoy72/imagepickerkmp-a-cross-platform-image-picker-for-kotlin-multiplatform-android-native-94174da40b47)
-- 📦 [BelZSpeedScan: QR/Barcode Scanner for Kotlin Multiplatform](https://medium.com/@belizairesmoy72/belzspeedscan-a-cross-platform-qr-barcode-scanner-for-kotlin-multiplatform-android-ios-fde8e4e97d06)
+-  [ImagePickerKMP: How to Capture & Pick Images with KMP](https://medium.com/@belizairesmoy72/imagepickerkmp-a-cross-platform-image-picker-for-kotlin-multiplatform-android-native-94174da40b47)
+-  [BelZSpeedScan: QR/Barcode Scanner for Kotlin Multiplatform](https://medium.com/@belizairesmoy72/belzspeedscan-a-cross-platform-qr-barcode-scanner-for-kotlin-multiplatform-android-ios-fde8e4e97d06)
 
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/ismoy-belizaire-a0ba99106)
-- 📮 [Medium](https://medium.com/@belizairesmoy72)
-- 🤝 Let’s collaborate on mobile tools, AI apps, or KMP projects
+-  [LinkedIn](https://www.linkedin.com/in/ismoy-belizaire-a0ba99106)
+-  [Medium](https://medium.com/@belizairesmoy72)
+-  Let’s collaborate on mobile tools, AI apps, or KMP projects
 
 ---
 
