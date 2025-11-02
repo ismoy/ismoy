@@ -50,7 +50,7 @@ Add swipe gestures in Compose Multiplatform apps
 
 ---
 
-### [In18Konfig](incoming)
+### [I18nKonfig](incoming)
      pending release
 ---
 ## Tech Stack
